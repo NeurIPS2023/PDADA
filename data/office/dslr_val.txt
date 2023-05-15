@@ -1,0 +1,4 @@
+data/office-31/dslr/bike_helmet/frame_0021.jpg 2
+data/office-31/dslr/desktop_computer/frame_0011.jpg 8
+data/office-31/dslr/mouse/frame_0011.jpg 16
+data/office-31/dslr/tape_dispenser/frame_0012.jpg 29
